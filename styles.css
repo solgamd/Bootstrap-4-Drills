@@ -1,0 +1,9 @@
+/* .container-fluid {
+    background: rgb(134, 193, 248);
+    height: 500px;
+} */
+
+.col {
+    padding: 0;
+    height: auto;
+}
